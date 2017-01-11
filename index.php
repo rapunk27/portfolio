@@ -33,9 +33,9 @@
   	  					<img src="images/rapunk.jpg" class="circle-profile">
   	  				</div>
   		  			<div class="info">
-  		  			  <h3>Contact me:</h3>
-  		  			  <p>rapunk27@gmail.com</p>
-  		  			  <p>09260690935</p>
+  		  			  	<h3>Contact me:</h3>
+  		  			  	<p><i class="fa fa-envelope contact-icon-color"></i> rapunk27@gmail.com</p>
+  		  			  	<p><i class="fa fa-phone contact-icon-color"></i> 09260690935</p>
   		  			</div>
   				</a>
   			</div>	
@@ -45,6 +45,7 @@
   </div>
 </div>
 
+  		  			
 
 
 
