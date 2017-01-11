@@ -1,0 +1,78 @@
+.name-title{
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	color:#F9EE06;
+}
+.position-text{
+	font-family: 'Merriweather', serif;
+	font-size: 14px;
+	color: #ffffff;
+}
+
+.nav-style{
+	font-family: 'Merriweather', serif;
+	color:#ffffff;
+}
+
+.custom-top-nav{
+	background: #1779BA;
+}
+
+.greetings-text{
+	font-family: 'Lato', sans-serif;
+	color:#1779BA;
+	font-weight: 900;
+}
+
+.greetings-msg{
+	font-size:16px;
+	font-family: 'Merriweather', serif;
+	color:#64A5D1;
+}
+
+.parallax-background {
+	background-color: #E6EDF3;
+	height: 300px;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+	background-size: cover;
+	position: fixed;
+	width: 100%;
+}
+
+.intro-text {
+	font-size: 50px;
+	color: #fff;
+	text-align: center;
+	margin-top: 2%;
+}
+.parallax-content {
+	max-width: 100%;
+	position: relative;
+	top: 300px;
+	padding: 50px;
+	font-size: 20px;
+	background-color: #fff;
+}
+
+.circle-profile{
+	border-radius: 50%;
+	width: 230px;
+	height: 230px;
+	text-align: center;
+	background:#E6E4E3;
+	filter: grayscale(100%);
+}
+
+.circle-profile:hover{
+	filter:none;
+	transition-delay: 1s;
+
+}
+
+font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Playfair Display SC', serif;
