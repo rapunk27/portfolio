@@ -63,14 +63,13 @@
 	height: 230px;
 	text-align: center;
 	background:#E6E4E3;
-	filter: grayscale(100%);
+	
 }
-
+/*
 .circle-profile:hover{
 	filter:none;
-	transition-delay: 1s;
 
-}
+}*/
 
 font-family: 'Lato', sans-serif;
 font-family: 'Merriweather', serif;

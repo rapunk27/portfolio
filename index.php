@@ -26,13 +26,25 @@
   			I am a persuasive graduate of Computer Science in Jose Rizal University with a passion for coding and making music as well. </p>
 
   		</div>
-  		<div class="small-8 columns">
-  				<img src="images/rapunk.jpg" class="circle-profile">
+  		<div class="small-6 columns">
+  			<div class="ih-item circle effect6 scale_up">
+  				<a href="#">
+  	  				<div class="img">
+  	  					<img src="images/rapunk.jpg" class="circle-profile">
+  	  				</div>
+  		  			<div class="info">
+  		  			  <h3>Contact me:</h3>
+  		  			  <p>rapunk27@gmail.com</p>
+  		  			  <p>09260690935</p>
+  		  			</div>
+  				</a>
+  			</div>	
   		</div>
   	</div> 	
     <p><i class="fi-arrow-down"></i></p>
   </div>
 </div>
+
 
 
 
