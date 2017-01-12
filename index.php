@@ -47,6 +47,11 @@
 
 <div class="social-media-content">
 	<div class="row">
+		<div class="large-6 large-centered columns">
+			<h3 class="contact-msg">Leave a message through these sites:</h3>
+		</div>
+	</div>
+	<div class="row">
 		<div class="small-10 large-8 columns small-centered large-centered">
 				<a href="#" class="social-media-icon social-fb">
 					<i class="fa fa-facebook"></i>
@@ -67,11 +72,16 @@
 					<i class="fa fa-slack"></i>
 				</a>
 				<a href="#" class="social-media-icon social-trello">
-					<i class="fa fa-trello"></i>
+					<i class="fa fa-trello"></i>	
 				</a>
 		</div>
 	</div>	
 </div>
+
+<div class="info-section"></div>
+
+
+
 			
 
 

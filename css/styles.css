@@ -33,6 +33,12 @@
 	color:#F9EE06;
 }
 
+.contact-msg{
+	font-family: 'Lato', sans-serif;
+	color:#ffffff;
+	font-weight: 400;
+}
+
 .parallax-background {
 	background-color: #E6EDF3;
 	height: 300px;
@@ -70,14 +76,15 @@
 
 .social-media-content{
 	background-color: #1779BA;
-	height: 150px;
+	height: 180px;
 	padding-top:20px;
+	overflow: hidden;
 }
 
 .social-media-icon{
 	width: 80px;
 	height: 80px;
-	border-radius: 5px;
+	border-radius: 10px;
 	line-height: 16px;
 	text-align: center;
 	padding: 20px;
@@ -130,11 +137,50 @@
 	font-family: 'Merriweather', serif;
 	color:#ffffff;
 }
+
+.info-section{
+	background-color: #E6EDF3;
+	height: 150px;
+	padding-top:20px;
+}
+
+.footer{
+	background-color: #1779BA;
+	height: 70px;
+	padding-top:20px;
+}
+
+.footer-copyright{
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+}
+
+.info-section{
+	
+}
+
+.info-text{
+	font-size: 50px;
+	color: #fff;
+	text-align: center;
+	margin-top: 2%;	
+}
 /*
 .circle-profile:hover{
 	filter:none;
 
 }*/
+
+/*background-image:url(../images/rap_guitar.jpg);	
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	background-attachment: fixed;
+	background-position: center-top;
+	height: 200px;*/
 
 font-family: 'Lato', sans-serif;
 font-family: 'Merriweather', serif;
