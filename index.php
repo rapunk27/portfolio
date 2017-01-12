@@ -1,21 +1,5 @@
 <?php include('head.php'); ?>
 
-<div class="top-bar custom-top-nav">
-    <div class="top-bar-left">
-    	<div class="top-bar-title small-push-3">
-    		<h3 class="name-title">Ralph Martyn Esteva</h3>
-    		<h6 class="position-text">Web Designer/Developer</h6>
-    	</div>
-    </div>
-    <div class="top-bar-right">
-    	<ul class="menu large-pull-3 small-push-3">
-    		<li><a href="#">Home</a></li>
-    		<li><a href="#">Works</a></li>
-    		<li><a href="#">Resume</a></li>
-    		<li><a href="#">Contacts</a></li>
-    	</ul>
-    </div>
-</div>
 
 <div class="parallax-background">
   <div class="row">
