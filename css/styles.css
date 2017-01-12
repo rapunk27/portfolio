@@ -10,7 +10,7 @@
 }
 
 .nav-style{
-	font-family: 'Merriweather', serif;
+	font-family: 'Lato', sans-serif;
 	color:#ffffff;
 }
 
@@ -41,7 +41,6 @@
   	-moz-background-size: cover;
   	-o-background-size: cover;
 	background-size: cover;
-	position: fixed;
 	width: 100%;
 }
 
@@ -67,6 +66,69 @@
 	text-align: center;
 	background:#E6E4E3;
 	
+}
+
+.social-media-content{
+	background-color: #1779BA;
+	height: 150px;
+	padding-top:20px;
+}
+
+.social-media-icon{
+	width: 80px;
+	height: 80px;
+	border-radius: 5px;
+	line-height: 16px;
+	text-align: center;
+	padding: 20px;
+	font-size: 40px;
+	margin: 10px;
+	color:#1779BA;
+	background: #D3D4D7;
+	display: inline-block;
+	transition-property: background;
+	transition-duration: 0.4s;
+	transition-timing-function: linear;
+}
+
+.social-fb:hover{
+	color:#ffffff;
+	background: #4E71A8;
+}
+
+.social-twitter:hover{
+	color:#ffffff;
+	background: #1CB7EB;
+}
+
+.social-github:hover{
+	color:#ffffff;
+	background: #000000;
+}
+
+.social-pinterest:hover{
+	color:#ffffff;
+	background: #BD061C;
+}
+
+.social-gplus:hover{
+	color:#ffffff;
+	background: #E3411F;
+}
+
+.social-slack:hover{
+	color:#ffffff;
+	background: #443642;
+}
+
+.social-trello:hover{
+	color:#ffffff;
+	background: #026AA7;
+}
+
+.social-text{
+	font-family: 'Merriweather', serif;
+	color:#ffffff;
 }
 /*
 .circle-profile:hover{

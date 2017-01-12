@@ -1369,13 +1369,14 @@ h6 {
 
 a {
   line-height: inherit;
-  color: #1779ba;
+  color: #fafafa;
   text-decoration: none;
   cursor: pointer; }
   a:hover, a:focus {
-    color: #1468a0; }
+    color: #8FCAF1; }
   a img {
     border: 0; }
+
 
 hr {
   clear: both;
@@ -2273,7 +2274,8 @@ select {
   .menu > li > a {
     display: block;
     padding: 0.7rem 1rem;
-    line-height: 1; }
+    line-height: 4; 
+    font-size: 18px;}
   .menu input,
   .menu select,
   .menu a,
@@ -2352,11 +2354,11 @@ select {
     background: #1779ba;
     color: #fefefe; }
   .menu.menu-bordered li {
-    border: 1px solid #e6e6e6; }
+    border: 1px solid #fefefe; }
     .menu.menu-bordered li:not(:first-child) {
       border-top: 0; }
   .menu.menu-hover li:hover {
-    background-color: #e6e6e6; }
+    background-color: #E6EDF3 ; }
 
 .menu-text {
   padding-top: 0;
@@ -3729,7 +3731,7 @@ a.thumbnail {
         transform: translateY(-50%); }
 
 .top-bar {
-  padding: 0.5rem; }
+  padding: 0.3rem; }
   .top-bar::before, .top-bar::after {
     display: table;
     content: ' '; }
@@ -3737,7 +3739,7 @@ a.thumbnail {
     clear: both; }
   .top-bar,
   .top-bar ul {
-    background-color: #e6e6e6; }
+    background-color: #1779BA; }
   .top-bar input {
     max-width: 200px;
     margin-right: 1rem; }

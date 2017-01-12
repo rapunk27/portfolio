@@ -8,8 +8,8 @@
     	</div>
     </div>
     <div class="top-bar-right">
-    	<ul class="menu large-pull-3 small-push-3 nav-style">
-    		<li class="active"><a href="#">Home</a></li>
+    	<ul class="menu large-pull-3 small-push-3">
+    		<li><a href="#">Home</a></li>
     		<li><a href="#">Works</a></li>
     		<li><a href="#">Resume</a></li>
     		<li><a href="#">Contacts</a></li>
@@ -18,8 +18,8 @@
 </div>
 
 <div class="parallax-background">
-  <div class="intro-text">
-  	<div class="row">
+  <div class="row">
+  	<div class="intro-text">
   		<div class="small-4 small-push-2 columns">
   			<h1 class="greetings-text">Hello there!</h1>
   			<p class="greetings-msg">My name is Rap. First of all, thank you for stopping by my page.
@@ -45,7 +45,34 @@
   </div>
 </div>
 
-  		  			
+<div class="social-media-content">
+	<div class="row">
+		<div class="small-10 large-8 columns small-centered large-centered">
+				<a href="#" class="social-media-icon social-fb">
+					<i class="fa fa-facebook"></i>
+				</a>
+				<a href="#" class="social-media-icon social-twitter">
+					<i class="fa fa-twitter"></i>
+				</a>
+				<a href="#" class="social-media-icon social-github">
+					<i class="fa fa-github"></i>
+				</a>
+				<a href="#" class="social-media-icon social-pinterest">
+					<i class="fa fa-pinterest"></i>
+				</a>
+				<a href="#" class="social-media-icon social-gplus">
+					<i class="fa fa-google-plus"></i>
+				</a>
+				<a href="#" class="social-media-icon social-slack">
+					<i class="fa fa-slack"></i>
+				</a>
+				<a href="#" class="social-media-icon social-trello">
+					<i class="fa fa-trello"></i>
+				</a>
+		</div>
+	</div>	
+</div>
+			
 
 
 
