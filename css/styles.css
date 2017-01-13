@@ -146,7 +146,7 @@
 
 .footer{
 	background-color: #1779BA;
-	height: 70px;
+	height: 120px;
 	padding-top:20px;
 }
 
@@ -169,21 +169,11 @@
 
 /*Works*/
 
-@keyframes slideIn{
-	0%{
-		left:0;
-		top:0;
-	}
-	100%{
-		left: 170px;
-		top:60px;
-	}
 
-}
 
 @keyframes slideOut{
 	100%{
-		left: 170px;
+		left: 250px;
 		top:60px;
 	}
 	0%{
@@ -196,7 +186,7 @@
 
 .works-content{
 	background-color: #E6EDF3;
-	height: 450px;
+	height: 400px;
 	padding-top:20px;
 }
 
@@ -205,7 +195,8 @@
 	width: 200px;
 	height: 200px;
 	position: absolute;
-	
+	transition: transform 300ms cubic-bezier(0.13, 0.15, 0.23, 1.05);
+	pointer-events: none;
 }
 
 .circle-default{
@@ -219,29 +210,56 @@
 	position: relative;
 	padding: 10px;
 	animation: slideOut 1s linear;
-	animation-timing-function: ease;
+	animation-timing-function: cubic-bezier(.51,-0.14,.48,1.73);
 	animation-fill-mode: forwards;
-
 }
 
 .circle-systems{
 	background-color: #FD8137;
 }
 
+.circle-edm{
+	background-color: #5bd49c;
+}
+
+.circle-banners{
+	background-color: #ebeb01;
+}
+
+.circle-html-email{
+	background-color: #ff6464;
+}
+
 .circle-default:hover .circle-work {
-	animation: slideIn 1s linear;
+	/*animation: slideIn 1s linear;
 	animation-timing-function: ease;
-	animation-fill-mode: forwards;
+	animation-fill-mode: forwards;*/
+	transform: translate(120px, 80px)rotate(20deg);
 
 }
 
-.circle-work-text{
+.circle-text{
 	font-family: 'Merriweather', serif;
-	font-size: 30px;
+	font-size: 26px;
 	text-transform: uppercase;
 	margin-top: 68px;
+}
+
+.circle-systems-color{
 	color:#FD8137; 
 }
+
+.circle-edms-color{
+	color:#17d47d; 
+}
+
+.circle-banners-color{
+	color:#fefe43; 
+}
+.circle-html-email-color{
+	color:#ff6464; 
+}
+
 
 .circle-default:hover{
 	color: #ffffff;
