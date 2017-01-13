@@ -262,6 +262,10 @@
 	text-align: center;
 }
 
+.edm-btn{
+	margin: 20px;
+}
+
 /*
 .circle-profile:hover{
 	filter:none;

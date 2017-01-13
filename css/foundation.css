@@ -1615,10 +1615,10 @@ kbd {
       color: #0a0a0a; }
   .button.warning {
     background-color: #ffae00;
-    color: #0a0a0a; }
+    color: #ffffff; }
     .button.warning:hover, .button.warning:focus {
       background-color: #cc8b00;
-      color: #0a0a0a; }
+      color: #ffffff; }
   .button.alert {
     background-color: #cc4b37;
     color: #fefefe; }
