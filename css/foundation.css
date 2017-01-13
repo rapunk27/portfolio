@@ -2197,7 +2197,7 @@ select {
 
 .card-divider {
   padding: 1rem;
-  background: #e6e6e6; }
+  background: linear-gradient(#1779BA, #3fb1fd); }
   .card-divider > :last-child {
     margin-bottom: 0; }
 
@@ -3881,7 +3881,7 @@ a.thumbnail {
   clear: both; }
 
 .slide-in-down.mui-enter {
-  transition-duration: 500ms;
+  transition-duration: 300ms;
   transition-timing-function: linear;
   -ms-transform: translateY(-100%);
       transform: translateY(-100%);
@@ -3894,7 +3894,7 @@ a.thumbnail {
       transform: translateY(0); }
 
 .slide-in-left.mui-enter {
-  transition-duration: 500ms;
+  transition-duration: 300ms;
   transition-timing-function: linear;
   -ms-transform: translateX(-100%);
       transform: translateX(-100%);
@@ -3907,7 +3907,7 @@ a.thumbnail {
       transform: translateX(0); }
 
 .slide-in-up.mui-enter {
-  transition-duration: 500ms;
+  transition-duration: 200ms;
   transition-timing-function: linear;
   -ms-transform: translateY(100%);
       transform: translateY(100%);
@@ -3920,7 +3920,7 @@ a.thumbnail {
       transform: translateY(0); }
 
 .slide-in-right.mui-enter {
-  transition-duration: 500ms;
+  transition-duration: 300ms;
   transition-timing-function: linear;
   -ms-transform: translateX(100%);
       transform: translateX(100%);
@@ -3946,7 +3946,7 @@ a.thumbnail {
       transform: translateY(100%); }
 
 .slide-out-right.mui-leave {
-  transition-duration: 500ms;
+  transition-duration: 300ms;
   transition-timing-function: linear;
   -ms-transform: translateX(0);
       transform: translateX(0);
