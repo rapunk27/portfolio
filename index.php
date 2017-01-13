@@ -1,5 +1,8 @@
+<?php 
+$path = ''; 
+$path2 = '';
+?>
 <?php include('head.php'); ?>
-
 
 <div class="parallax-background">
   <div class="row">
@@ -63,11 +66,6 @@
 </div>
 
 <div class="info-section"></div>
-
-
-
-			
-
-
+		
 
 <?php include('foot.php'); ?>
