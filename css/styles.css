@@ -316,6 +316,45 @@
 	color:#1779BA;
 }
 
+.dap-section{
+	height: 3000px;
+	background: #E6EDF3;
+	padding: 30px;
+}
+
+.system-name{
+	font-family: 'Lato', sans-serif;
+	color:#1779BA;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.system-subheading{
+	font-family: 'Lato', sans-serif;
+	color:#1779BA;
+
+}
+
+.system-subheading-info{
+	font-family: 'Lato', sans-serif;
+	color:#027ccd;
+	display: inline-block;
+
+}
+
+.system-cover-photo{
+	background-image: url(../works/dap-images/homepage.jpg);
+	background-position: 0px -75px;
+	background-repeat: no-repeat;
+	width: 1200px;
+	height: 400px;
+}
+
+.system-paragraph{
+	font-size: 18px;
+	font-family: 'Merriweather', serif;
+	color:#3192d3;
+}
 
 /*
 .circle-profile:hover{

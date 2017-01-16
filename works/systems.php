@@ -24,7 +24,7 @@
 				</div>
 				<img src="dap-images/login.JPG">
 				<div class="card-section">
-					<a href="#" class="button warning expanded large">
+					<a href="dap.php" class="button warning expanded large">
 						<i class="fa fa-eye"></i> View
 					</a>
 				</div>
