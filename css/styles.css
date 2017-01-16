@@ -283,6 +283,39 @@
 .edm-btn{
 	margin: 20px;
 }
+/*==========*/
+/*Systems*/
+/*=========*/
+
+.systems-section{
+	height: 800px;
+	background: #E6EDF3;
+	padding: 30px;
+}
+
+.system-title{
+	font-family: 'Lato', sans-serif;
+	color:#ffffff;
+}
+
+.system-card-size{
+	height: 400px;
+	width: 500px;
+}
+
+.system-label{
+	font-family: 'Lato', sans-serif;
+	color:#1779BA;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.system-note{
+	font-size: 16px;
+	font-family: 'Merriweather', serif;
+	color:#1779BA;
+}
+
 
 /*
 .circle-profile:hover{
