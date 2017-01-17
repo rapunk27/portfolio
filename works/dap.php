@@ -23,12 +23,12 @@
 	</div>
 	<div class="row" style="padding-bottom: 50px;">
 		<div class="columns">
-			<div class="system-cover-photo"></div>
+			<div class="system-cover-photo system-cursor" data-open="homepage"></div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="columns">
-			<p class="system-paragraph">This system was a School Thesis/Project entitled "Management Information System for Development Academy of the Philippines. It is composed of 3 subsystems mainly: Employee Management, Performance Evaluation and Property Management. The members of the group includes Lea Andaya, Alaine Quinto, Ryan Santos, Ranie Santos, Michael Vicedo and of course your very own Ralph Martyn Esteva, which is me. Now you have seen the main home page as you have seen in the above image, I will give you a little tour in our system.</p>
+			<p class="system-paragraph text-justify">This system was a School Thesis/Project entitled "Management Information System for Development Academy of the Philippines. It is composed of 3 subsystems mainly: Employee Management, Performance Evaluation and Property Management. The members of the group includes Lea Andaya, Alaine Quinto, Ryan Santos, Ranie Santos, Michael Vicedo and of course your very own Ralph Martyn Esteva, which is me. Now you have seen the main home page as you have seen in the above image, I will give you a little tour in our system.</p>
 		</div>
 	</div>
 	<div class="row">
@@ -41,8 +41,8 @@
 				</div>
 				<div class="media-object-section">
 					<h4 class="system-paragraph-title">Tools and System Intro</h4>
-					<p class="system-paragraph">We developed this system with the use of the PHP Programming Language and MySql as our main Sql Server. We also used Laravel as our main PHP framework, along with Bootstrap as our CSS framework. HTML and Jquery is also included. </p>
-					<p class="system-paragraph">
+					<p class="system-paragraph text-justify">We developed this system with the use of the PHP Programming Language and MySql as our main Sql Server. We also used Laravel as our main PHP framework, along with Bootstrap as our CSS framework. HTML and Jquery is also included. </p>
+					<p class="system-paragraph text-justify">
 						As you see here on the left is our login page. 
 						The three below is the quick access section, the user menus and the footer.
 						Users are only allowed to view/edit/print their information, request a leave, view announcements, send a self evaluation, change password, view property information, and request property transfer.
@@ -78,13 +78,13 @@
 			<div class="media-object">
 				<div class="media-object-section main-section">
 					<h4 class="system-paragraph-title" id="adminPanel" data-magellan-target="adminPanel">Admin Panel</h4>
-					<p class="system-paragraph">
+					<p class="system-paragraph text-justify">
 						Over here is the admin panel. Only Users with the role of any admin type has access here. If you are a Super Administrator, you have access to all of these panels. 
 					</p>
 					<ul>
-						<li class="system-paragraph"><u>Employee Admin</u> - can register an employee, search for them, edit/delete their information, add leave credits, and post announcements.</li>
-						<li class="system-paragraph"><u>Performance Admin</u> - has access and receives all of the performance evaluations of his subordinates under his department.</li>
-						<li class="system-paragraph"><u>Property Admin</u> - can add/view/edit/delete a property, assign accountability, approve/reject property transfer requests and update the property's repair and maintenance info.</li>
+						<li class="system-paragraph text-justify"><u>Employee Admin</u> - can register an employee, search for them, edit/delete their information, add leave credits, and post announcements.</li>
+						<li class="system-paragraph text-justify"><u>Performance Admin</u> - has access and receives all of the performance evaluations of his subordinates under his department.</li>
+						<li class="system-paragraph text-justify"><u>Property Admin</u> - can add/view/edit/delete a property, assign accountability, approve/reject property transfer requests and update the property's repair and maintenance info.</li>
 					</ul>
 				</div>
 				<div class="media-object-section align-self-bottom">
@@ -107,7 +107,7 @@
 				<div class="media-object-section main-section">
 					<h4 class="system-paragraph-title">Super Administrator</h4>
 
-					<p class="system-paragraph">The Super Administrator has access to all 3 subsystems, assign user roles, retrieve the deleted users/properties in the archives page and can filter the system if it needs to be hidden.</p>
+					<p class="system-paragraph text-justify">The Super Administrator has access to all 3 subsystems, assign user roles, retrieve the deleted users/properties in the archives page and can filter the system if it needs to be hidden.</p>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
@@ -129,11 +129,11 @@
 				</div>
 				<div class="media-object-section">
 					<h4 class="system-paragraph-title">Employee Management System</h4>
-					<p class="system-paragraph">
+					<p class="system-paragraph text-justify">
 						Our Employee Management System has a registration module where the admin can add accounts for the employees, the employee cannot make their own account. It records Personal information, Contacts, Common Ids, School information and Parents information. 
 					</p>
 
-					<p class="system-paragraph">
+					<p class="system-paragraph text-justify">
 						Once employee registration is successful, the admin may now give the account credentials to the employees. The employees/users can now view and have limited access to editing their account information. They may also change their password, stay updated about the latest announcements or birthdays posted.  
 					</p>
 				</div>
@@ -142,7 +142,7 @@
 	</div>
 	<div class="row">
 		<div class="columns">
-			<p class="system-paragraph">
+			<p class="system-paragraph text-justify">
 				Users can now file a leave and check their leave credits online. As long as the user has enough leave credits they can file a leave transaction. If the user is an admin of the said subsystem they can view all the leave requests of the employees. Of course it's the admin's decision if they are going to approve/reject their request. The subsystem also comes with the leaves list module as you see in the 3rd photo below, where they can view all the leave credits of the employees, and it has filtering feature which can be helpful for the admin if they want to see all credits by department. PDF is also provided in this module.
 			</p>	
 		</div>
@@ -177,7 +177,7 @@
 					</div>
 				</div>
 				<div class="media-object-section">
-					<p class="system-paragraph">
+					<p class="system-paragraph text-justify">
 						The EMS admin can also create announcements to post in the user dashboard for everyone to see.
 						They may also edit the announcement incase of errors. It also comes with a search feature for easier organizations of the announcements.
 					</p>
@@ -206,9 +206,9 @@
 				<div class="media-object-section">
 					<h4 class="system-paragraph-title">Performance Evaluation System</h4>
 
-					<p class="system-paragraph">Our Performance Evaluation system was the most featured system in this MIS Project. The system starts off with the employees opening the self evaluation form that has 3 indicators namely: Utilization, Quality of Work, and Potential for Future Perfomance.</p>
+					<p class="system-paragraph text-justify">Our Performance Evaluation system was the most featured system in this MIS Project. The system starts off with the employees opening the self evaluation form that has 3 indicators namely: Utilization, Quality of Work, and Potential for Future Perfomance.</p>
 
-					<p class="system-paragraph">For each indicators, they have questions for the employees to answer from 1 to 6. The evaluation rubricks, guide and screenshot are also provided here for the users to know how to use the performance evaluation system.  Note: users are only allowed to send their self evaluation once.</p>
+					<p class="system-paragraph text-justify">For each indicators, they have questions for the employees to answer from 1 to 6. The evaluation rubricks, guide and screenshot are also provided here for the users to know how to use the performance evaluation system.  Note: users are only allowed to send their self evaluation once.</p>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
@@ -221,11 +221,11 @@
 
 	<div class="row">
 		<div class="columns">
-			<p class="system-paragraph">If the Performance Evaluation admin is as the same department as the one who sent the self evaluation, he can still receive it. If its not, well perhaps some other admin with the same department will receive it. As the admin receives the self evaluation, he may now review, edit or add a comment to the evaluation. Once it is done they're now going to send it back to the subordinate. </p>
+			<p class="system-paragraph text-justify">If the Performance Evaluation admin is as the same department as the one who sent the self evaluation, he can still receive it. If its not, well perhaps some other admin with the same department will receive it. As the admin receives the self evaluation, he may now review, edit or add a comment to the evaluation. Once it is done they're now going to send it back to the subordinate. </p>
 
-			<p class="system-paragraph">Each users have their own page for viewing all their evaluations. On the 2nd picture below you'll see an example of the users evaluation and it's comparison with the past or future evaluations. Overall ratings for each indicators are marked red and a progress bar is provided for visual representation of the evaluation.</p>
+			<p class="system-paragraph text-justify">Each users have their own page for viewing all their evaluations. On the 2nd picture below you'll see an example of the users evaluation and it's comparison with the past or future evaluations. Overall ratings for each indicators are marked red and a progress bar is provided for visual representation of the evaluation.</p>
 
-			<p class="system-paragraph">One the right picture below is the report generation of the performance system. A pie chart shows up everytime you filter something along with the PDF version of the reports. You may see more pictures below.</p>
+			<p class="system-paragraph text-justify">One the right picture below is the report generation of the performance system. A pie chart shows up everytime you filter something along with the PDF version of the reports. You may see more pictures below.</p>
 		</div>
 	</div>
 
@@ -262,11 +262,11 @@
 				</div>
 				<div class="media-object-section">
 					<h4 class="system-paragraph-title">Property Management System</h4>
-					<p class="system-paragraph">
+					<p class="system-paragraph text-justify">
 						Although the company already has it's own Property Management System. We were thankful enough for the company in letting us allow to develop our own kind of Property Management System. Their existing Property system was the most used system in their company as "Michael Vicedo" is one of the admins of it.
 					</p>
 
-					<p class="system-paragraph">
+					<p class="system-paragraph text-justify">
 						Our Property Management System, just to give a brief summary, records all the properties purchased by the company and assign it to an employee. As you see on the left is a picture of all the properties in the company. Some of them are just dummy data for testing purposes.
 					</p>
 				</div>
@@ -276,7 +276,7 @@
 
 	<div class="row">
 		<div class="columns">
-			<p class="system-paragraph">Before the Properties can be assigned, the property details need to be added to the database first. An employee could also request a property transfer to another employee and the admin could just approve it anytime. The system also records the accountability history of the property, tracking it's previous owners through the years. The property admin can record its repair and maintenance and generate reports for the properties.  </p>
+			<p class="system-paragraph text-justify">Before the Properties can be assigned, the property details need to be added to the database first. An employee could also request a property transfer to another employee and the admin could just approve it anytime. The system also records the accountability history of the property, tracking it's previous owners through the years. The property admin can record its repair and maintenance and generate reports for the properties.  </p>
 
 		</div>
 	</div>
@@ -303,7 +303,8 @@
 		</div>
 	</div>
 
-	<!-- Others section -->
+	<div class="callout large warning">
+			<!-- Others section -->
 <div class="row">
 	<div class="large-12 columns">
 		<h4 class="system-paragraph-title text-center"> Others: </h4>
@@ -345,7 +346,8 @@
 
 		<?php endforeach; ?>
 	</div>
-</div>
+</div> <!-- End of Others section -->
+	</div>
 
 </div>
 
