@@ -34,31 +34,31 @@ $path2 = '';
 
 <div class="social-media-content">
 	<div class="row">
-		<div class="large-6 large-centered columns">
-			<h3 class="contact-msg">Leave a message through these sites:</h3>
+		<div class="large-3 large-centered columns">
+			<h3 class="contact-msg">Social Media Links</h3>
 		</div>
 	</div>
 	<div class="row">
 		<div class="small-10 large-8 columns small-centered large-centered">
-				<a href="#" class="social-media-icon social-fb">
+				<a href="https://www.facebook.com/ralph.m.esteva" class="social-media-icon social-fb" target="_blank">
 					<i class="fa fa-facebook"></i>
 				</a>
-				<a href="#" class="social-media-icon social-twitter">
+				<a href="https://twitter.com/Rapunk77?lang=en" class="social-media-icon social-twitter" target="_blank">
 					<i class="fa fa-twitter"></i>
 				</a>
-				<a href="#" class="social-media-icon social-github">
+				<a href="https://github.com/rapunk27" class="social-media-icon social-github" target="_blank">
 					<i class="fa fa-github"></i>
 				</a>
-				<a href="#" class="social-media-icon social-pinterest">
+				<a href="https://www.pinterest.com/ralphesteva/" class="social-media-icon social-pinterest" target="_blank">
 					<i class="fa fa-pinterest"></i>
 				</a>
-				<a href="#" class="social-media-icon social-gplus">
+				<a href="https://plus.google.com/u/0/110997113508201651569" class="social-media-icon social-gplus" target="_blank">
 					<i class="fa fa-google-plus"></i>
 				</a>
-				<a href="#" class="social-media-icon social-slack">
+				<a href="https://privatogryd.slack.com/messages/general/team/rapunk27/" class="social-media-icon social-slack" target="_blank">
 					<i class="fa fa-slack"></i>
 				</a>
-				<a href="#" class="social-media-icon social-trello">
+				<a href="https://trello.com/" class="social-media-icon social-trello" target="_blank">
 					<i class="fa fa-trello"></i>	
 				</a>
 		</div>
