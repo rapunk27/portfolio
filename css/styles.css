@@ -323,7 +323,7 @@
 }
 
 .dap-section{
-	height: 8000px;
+	height: 7000px;
 	background: #E6EDF3;
 	padding: 30px;
 }
@@ -371,6 +371,10 @@
 
 .system-cursor{
 	cursor: pointer;
+}
+
+.magellan-menu{
+	color: #ffffff;
 }
 
 

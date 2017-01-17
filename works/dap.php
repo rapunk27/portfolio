@@ -6,7 +6,7 @@
 <?php include('../head.php'); ?>
 
 <div class="dap-section">
-	<div class="row">
+	<div class="row" id="title" data-magellan-target="title">
 		<div class="small-12 large-12 columns text-center">
 			<h1 class="system-name">Development Academy of the Philippines</h1>
 		</div>
@@ -39,7 +39,7 @@
 						<img src="dap-images/login.jpg" class="system-cursor" data-open="login">
 					</div>
 				</div>
-				<div class="media-object-section">
+				<div class="media-object-section" id="tools" data-magellan-target="tools">
 					<h4 class="system-paragraph-title">Tools and System Intro</h4>
 					<p class="system-paragraph">We developed this system with the use of the PHP Programming Language and MySql as our main Sql Server. We also used Laravel as our main PHP framework, along with Bootstrap as our CSS framework. HTML and Jquery is also included. </p>
 					<p class="system-paragraph">
@@ -77,7 +77,7 @@
 		<div class="columns">
 			<div class="media-object">
 				<div class="media-object-section main-section">
-					<h4 class="system-paragraph-title">Admin Panel</h4>
+					<h4 class="system-paragraph-title" id="adminPanel" data-magellan-target="adminPanel">Admin Panel</h4>
 					<p class="system-paragraph">
 						Over here is the admin panel. Only Users with the role of any admin type has access here. If you are a Super Administrator, you have access to all of these panels. 
 					</p>
