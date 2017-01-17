@@ -377,6 +377,20 @@
 	color: #ffffff;
 }
 
+.privato-section{
+	height: 6000px;
+	background: #E6EDF3;
+	padding: 30px;
+}
+
+.privato-cover-photo{
+	background-image: url(../works/privato-images/dashboard.jpg);
+	background-position: 0px -75px;
+	background-repeat: no-repeat;
+	width: 1162px;
+	height: 400px;
+}
+
 
 
 /*

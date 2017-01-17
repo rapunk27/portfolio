@@ -6,7 +6,7 @@
 <?php include('../head.php'); ?>
 
 <div class="dap-section">
-	<div class="row" id="title" data-magellan-target="title">
+	<div class="row" id="title">
 		<div class="small-12 large-12 columns text-center">
 			<h1 class="system-name">Development Academy of the Philippines</h1>
 		</div>
@@ -28,7 +28,7 @@
 	</div>
 	<div class="row">
 		<div class="columns">
-			<p class="system-paragraph">This system was a School Thesis/Project entitled "Management Information System for Development Academy of the Philippines. It is composed of 3 subsystems mainly: Employee Management, Performance Evaluation and Property Management. The members of the group includes Lea Andaya, Alaine Quinto, Ryan Santos, Michael Vicedo and of course your very own Ralph Martyn Esteva, which is me. Now you have seen the main home page as you have seen in the above image, I will give you a little tour in our system.</p>
+			<p class="system-paragraph">This system was a School Thesis/Project entitled "Management Information System for Development Academy of the Philippines. It is composed of 3 subsystems mainly: Employee Management, Performance Evaluation and Property Management. The members of the group includes Lea Andaya, Alaine Quinto, Ryan Santos, Ranie Santos, Michael Vicedo and of course your very own Ralph Martyn Esteva, which is me. Now you have seen the main home page as you have seen in the above image, I will give you a little tour in our system.</p>
 		</div>
 	</div>
 	<div class="row">
@@ -39,7 +39,7 @@
 						<img src="dap-images/login.jpg" class="system-cursor" data-open="login">
 					</div>
 				</div>
-				<div class="media-object-section" id="tools" data-magellan-target="tools">
+				<div class="media-object-section">
 					<h4 class="system-paragraph-title">Tools and System Intro</h4>
 					<p class="system-paragraph">We developed this system with the use of the PHP Programming Language and MySql as our main Sql Server. We also used Laravel as our main PHP framework, along with Bootstrap as our CSS framework. HTML and Jquery is also included. </p>
 					<p class="system-paragraph">
