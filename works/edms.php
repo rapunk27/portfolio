@@ -5,6 +5,11 @@
 
 <?php include('../head.php'); ?>
 
+<div class="row">
+	<div class="large-12 columns">
+		<h1 class="text-center edm-label"> EDMs</h1>
+	</div>
+</div>
 
 <div class="row small-up-2 large-up-4" style="margin-top: 20px;">
 <!-- Looping all the image files here -->

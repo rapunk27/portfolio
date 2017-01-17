@@ -267,6 +267,12 @@
 
 /*EDMs*/
 
+.edm-label{
+	font-family: 'Lato', sans-serif;
+	color: #1779BA;
+	text-decoration: underline;
+}
+
 .edm-image{
 	width: 270px; 
 	height: 270px;
