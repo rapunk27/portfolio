@@ -40,9 +40,11 @@
 					</div>
 				</div>
 				<div class="media-object-section">
-					<p class="system-paragraph">We developed this system with the use of the PHP Programming Language and MySql as our main Sql Server. We also used Laravel as our main PHP framework, along with Bootstrap as our CSS framework. </p>
+					<h4 class="system-paragraph-title">Tools and System Intro</h4>
+					<p class="system-paragraph">We developed this system with the use of the PHP Programming Language and MySql as our main Sql Server. We also used Laravel as our main PHP framework, along with Bootstrap as our CSS framework. HTML and Jquery is also included </p>
 					<p class="system-paragraph">
 						As you see here on the left is our login page. 
+						The three below is the quick access section which gives faster access to the users, the user menus and the footer along with the social media links.
 					</p>
 				</div>
 			</div>
@@ -70,7 +72,30 @@
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="columns">
+			<div class="media-object">
+				<div class="media-object-section main-section">
+					<h4 class="system-paragraph-title">Admin Panel</h4>
+					<p class="system-paragraph">
+						Over here is the admin panel. Only Users with the role of any admin type has access here. If you are a Super Administrator, you have access to all of these panels. 
+					</p>
+					<ul>
+						<li class="system-paragraph"><u>Employee Admin</u> - can register an employee, search for them, edit/delete their information, add leave credits, and post announcements.</li>
+						<li class="system-paragraph"><u>Performance Admin</u> - has access and receives all of the performance evaluations of his subordinates under his department.</li>
+						<li class="system-paragraph"><u>Property Admin</u> - can add/view/edit/delete a property, assign accountability, approve/reject property transfer requests and update the property's repair and maintenance info.</li>
+					</ul>
+				</div>
+				<div class="media-object-section align-self-bottom">
+					<div class="thumbnail">
+						<img src="dap-images/admin-panel.jpg">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 <?php include('../foot.php') ?>
 
+			

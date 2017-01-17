@@ -346,7 +346,7 @@
 	background-image: url(../works/dap-images/homepage.jpg);
 	background-position: 0px -75px;
 	background-repeat: no-repeat;
-	width: 1200px;
+	width: 1162px;
 	height: 400px;
 }
 
@@ -355,6 +355,15 @@
 	font-family: 'Merriweather', serif;
 	color:#3192d3;
 }
+
+.system-paragraph-title{
+	font-size: 28px;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+	color:#3192d3;
+}
+
+
 
 /*
 .circle-profile:hover{
