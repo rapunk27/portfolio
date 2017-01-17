@@ -323,7 +323,7 @@
 }
 
 .dap-section{
-	height: 6000px;
+	height: 8000px;
 	background: #E6EDF3;
 	padding: 30px;
 }
@@ -367,6 +367,10 @@
 	font-weight: bold;
 	font-family: 'Lato', sans-serif;
 	color:#3192d3;
+}
+
+.system-cursor{
+	cursor: pointer;
 }
 
 

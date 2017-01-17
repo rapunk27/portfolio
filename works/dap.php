@@ -36,7 +36,7 @@
 			<div class="media-object">
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/login.jpg">
+						<img src="dap-images/login.jpg" class="system-cursor" data-open="login">
 					</div>
 				</div>
 				<div class="media-object-section">
@@ -57,17 +57,17 @@
 			<div class="media-object">
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/quick-access.jpg">
+						<img src="dap-images/quick-access.jpg" class="system-cursor" data-open="quick-access">
 					</div>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/systems.jpg">
+						<img src="dap-images/systems.jpg" class="system-cursor" data-open="systems">
 					</div>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/footer.jpg">
+						<img src="dap-images/footer.jpg" class="system-cursor" data-open="footer">
 					</div>
 				</div>
 			</div>
@@ -89,7 +89,7 @@
 				</div>
 				<div class="media-object-section align-self-bottom">
 					<div class="thumbnail">
-						<img src="dap-images/admin-panel.jpg">
+						<img src="dap-images/admin-panel.jpg" class="system-cursor" data-open="admin-panel">
 					</div>
 				</div>
 			</div>
@@ -101,7 +101,7 @@
 			<div class="media-object">
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/super/manage-administer-roles.jpg">
+						<img src="dap-images/super/manage-administer-roles.jpg" class="system-cursor" data-open="manage-administer-roles">
 					</div>
 				</div>
 				<div class="media-object-section main-section">
@@ -111,7 +111,7 @@
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/super/manage-system-filters.jpg">
+						<img src="dap-images/super/manage-system-filters.jpg" class="system-cursor" data-open="manage-system-filters">
 					</div>
 				</div>
 			</div>	
@@ -124,7 +124,7 @@
 			<div class="media-object">
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/ems/add-employee1.jpg">
+						<img src="dap-images/ems/add-employee1.jpg" class="system-cursor" data-open="add-employee1">
 					</div>
 				</div>
 				<div class="media-object-section">
@@ -152,17 +152,17 @@
 			<div class="media-object">
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/ems/leave-balance.jpg">
+						<img src="dap-images/ems/leave-balance.jpg" class="system-cursor" data-open="leave-balance">
 					</div>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/ems/all-leave-requests.jpg">
+						<img src="dap-images/ems/all-leave-requests.jpg" class="system-cursor" data-open="all-leave-requests">
 					</div>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/ems/leaves-list.jpg">
+						<img src="dap-images/ems/leaves-list.jpg" class="system-cursor" data-open="leaves-list">
 					</div>
 				</div>
 			</div>
@@ -173,7 +173,7 @@
 			<div class="media-object">
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/ems/create-announcement.jpg">
+						<img src="dap-images/ems/create-announcement.jpg" class="system-cursor" data-open="create-announcement">
 					</div>
 				</div>
 				<div class="media-object-section">
@@ -184,12 +184,12 @@
 					<div class="media-object">
 						<div class="media-object-section">
 							<div class="thumbnail">
-								<img src="dap-images/ems/edit-announcement.jpg">
+								<img src="dap-images/ems/edit-announcement.jpg" class="system-cursor" data-open="edit-announcement">
 							</div>
 						</div>
 						<div class="media-object-section">
 							<div class="thumbnail">
-								<img src="dap-images/ems/search-announcement.jpg">
+								<img src="dap-images/ems/search-announcement.jpg" class="system-cursor" data-open="search-announcement">
 							</div>
 						</div>
 					</div>
@@ -212,7 +212,7 @@
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/perf/self-evaluation.jpg">
+						<img src="dap-images/perf/self-evaluation.jpg" class="system-cursor" data-open="self-evaluation">
 					</div>
 				</div>
 			</div>
@@ -234,17 +234,17 @@
 			<div class="media-object">
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/perf/review-evaluation.jpg">
+						<img src="dap-images/perf/review-evaluation.jpg" class="system-cursor" data-open="review-evaluation">
 					</div>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/perf/line-chart.jpg">
+						<img src="dap-images/perf/line-chart.jpg" class="system-cursor" data-open="line-chart">
 					</div>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/perf/pie-chart.jpg">
+						<img src="dap-images/perf/pie-chart.jpg" class="system-cursor" data-open="pie-chart">
 					</div>
 				</div>
 			</div>
@@ -257,7 +257,7 @@
 			<div class="media-object">
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/prop/search-property.jpg">
+						<img src="dap-images/prop/search-property.jpg" class="system-cursor" data-open="search-property">
 					</div>
 				</div>
 				<div class="media-object-section">
@@ -286,17 +286,17 @@
 			<div class="media-object">
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/prop/my-properties.jpg">
+						<img src="dap-images/prop/my-properties.jpg" class="system-cursor" data-open="my-properties">
 					</div>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/prop/request-transfer.jpg">
+						<img src="dap-images/prop/request-transfer.jpg" class="system-cursor" data-open="request-transfer">
 					</div>
 				</div>
 				<div class="media-object-section">
 					<div class="thumbnail">
-						<img src="dap-images/prop/pdf-list-assigned-properties.jpg">
+						<img src="dap-images/prop/pdf-list-assigned-properties.jpg" class="system-cursor" data-open="pdf-list-assigned-properties">
 					</div>
 				</div>
 			</div>
@@ -304,15 +304,61 @@
 	</div>
 
 	<!-- Others section -->
-
-	<div class="row">
+<div class="row">
 	<div class="large-12 columns">
 		<h4 class="system-paragraph-title text-center"> Others: </h4>
 	</div>
 </div>
 
+<div class="row">
+	<div class="columns">
+		<?php foreach(glob('./dap-images/others/*.*') as $index => $file): ?>
+			<?php $exif = exif_read_data($file); ?>
+			<div class="large-3 columns">
+				<div class="card edm-image">
+					<div class="card-divider">
+						<h6 class="edm-title"><?php echo substr($file, 20, -4); ?></h6>	
+					</div>
+					<div class="ih-item square effect6 from_top_and_bottom">
+						<a>
+							<div class="img">
+								<img src="<?php echo $file; ?>">
+							</div>
+							<div class="info">
+							<h3>
+								<button class="button warning large" data-open="system<?php echo $index; ?>">
+									<i class="fa fa-search"></i> View
+								</button>
+							</h3>
+							</div>
+						</a>
+					</div>
+					<div class="img">
+						<img src="<?php echo $file; ?>" class="thumbnail">
+					</div>
+					<div class="info">
+						<h3>Heading here</h3>
+						<button class="button primary">Click</button>
+					</div>
+				</div>
+			</div>
+
+		<?php endforeach; ?>
+	</div>
 </div>
 
+</div>
+
+<?php foreach(glob('./dap-images/others/*.*') as $index => $file): ?>	
+	<div class="large reveal" id="system<?php echo $index; ?>" data-reveal data-animation-in="slide-in-up" data-animation-out="slide-out-right">
+	 	<img src="<?php echo $file; ?>">
+	  <button class="close-button" data-close aria-label="Close modal" type="button">
+	    <span aria-hidden="true">&times;</span>
+	  </button>
+	</div>
+<?php endforeach; ?>
+
+<?php include('works-modals.php') ?>
 <?php include('../foot.php') ?>
 
 			
