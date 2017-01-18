@@ -392,6 +392,38 @@
 }
 
 
+/*Banner*/
+.banner-section{
+	height: 900px;
+	background: #E6EDF3;
+	padding: 30px;
+}
+
+.banner-label{
+	font-family: 'Lato', sans-serif;
+	color: #1779BA;
+	text-decoration: underline;
+}
+
+.banner-image{
+	width: 270px; 
+	height: 220px;
+}
+
+/*Html email*/
+
+.html-email-section{
+	height: 700px;
+	background: #E6EDF3;
+	padding: 30px;
+}
+
+.html-email-image{
+	width: 270px; 
+	height: 270px;
+}
+
+
 
 /*
 .circle-profile:hover{

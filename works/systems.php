@@ -13,7 +13,8 @@
 	</div>
 	<div class="row">
 		<div class="small-8 small-offset-2 columns text-center">
-			<p class="system-note">Welcome to the systems page. As you see here I have created two Management Information Systems for these 2 companies for a School Project (with the help of the group of course). I do apologize that I didn't get to provide these systems to be uploaded online. However I have some screenshots of each of these systems so that you may take a look at its features. If you still want me to show you the system live, I could bring my laptop and show you how it works.</p>
+			<p class="system-note">
+			Welcome to the systems page. As you see here I have created two Management Information Systems for these 2 companies for a School Project (with the help of the group of course). I do apologize that I didn't get to provide these systems to be uploaded online. However I have some screenshots of each of these systems so that you may take a look at its features. If you still want me to show you the system live, I could bring my laptop and show you how it works.</p>
 		</div>
 	</div>
 	<div class="row" data-equalizer data-equalize-by-row="true">
