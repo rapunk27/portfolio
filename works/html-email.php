@@ -78,6 +78,7 @@
 
 	
 <?php foreach(glob('./html-email-images/*.*') as $index => $file): ?>	
+	<?php $index++; ?>
 	<div class="reveal" id="html-email<?php echo $index; ?>" data-reveal data-animation-in="slide-in-up" data-animation-out="slide-out-right">
 	 	<img src="<?php echo $file; ?>">
 	  <button class="close-button" data-close aria-label="Close modal" type="button">

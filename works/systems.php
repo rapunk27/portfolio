@@ -25,7 +25,7 @@
 				</div>
 				<img src="dap-images/login.JPG">
 				<div class="card-section">
-					<a href="dap.php" class="button warning expanded large">
+					<a href="dap.php" class="button warning expanded large" target="_blank">
 						<i class="fa fa-eye"></i> View
 					</a>
 				</div>
@@ -39,7 +39,7 @@
 				</div>
 				<img src="privato-images/used/login.JPG">
 				<div class="card-section">
-					<a href="privato.php" class="button warning expanded large">
+					<a href="privato.php" class="button warning expanded large" target="_blank">
 						<i class="fa fa-eye"></i> View
 					</a>
 				</div>
