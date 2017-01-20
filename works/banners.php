@@ -11,6 +11,14 @@
 			<h1 class="text-center edm-label"> Banners</h1>
 		</div>
 	</div>
+<div class="row">
+	<div class="small-6 small-offset-3 columns text-center">
+		<p class="work-note">
+			Same with EDM, but some of these banners are posted through FB. 
+			Some are projects from outside work.
+		</p>
+	</div>
+</div>
 
 
 	<div class="row small-up-2 large-up-4" style="margin-top: 20px;">

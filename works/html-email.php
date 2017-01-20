@@ -21,6 +21,13 @@
 			<h1 class="text-center edm-label"> HTML Email</h1>
 		</div>
 	</div>
+<div class="row">
+	<div class="small-8 small-offset-2 columns text-center">
+		<p class="work-note">
+			Although they are similar to EDMs.., well they actually are but the difference is that once the JPEG layout is approved by the one who requested it, we proceed with the coding so that they can blast it tour clients' emails. You may either view the JPEG layout or view the coded layout. 
+		</p>
+	</div>
+</div>
 
 
 	<div class="row small-up-2 large-up-4" style="margin-top: 20px;">

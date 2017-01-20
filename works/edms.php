@@ -11,6 +11,14 @@
 	</div>
 </div>
 
+<div class="row">
+	<div class="small-8 small-offset-2 columns text-center">
+		<p class="work-note">
+			Also known as Email Direct Marketing. It is sending a commercial message, typically to a group of people, using email. In its broadest sense, every email sent to a potential or current customer could be considered email marketing. Most of what we have promoted during my time in Asiatravel are hotels and tourist attractions/events.
+		</p>
+	</div>
+</div>
+
 <div class="row small-up-2 large-up-4" style="margin-top: 20px;">
 <!-- Looping all the image files here -->
 	<?php foreach(glob('./edm-images/*.*') as $index => $file): ?>
