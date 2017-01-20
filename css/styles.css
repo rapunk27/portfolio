@@ -429,6 +429,57 @@
 	height: 270px;
 }
 
+/*Resume*/
+.resume-section{
+	height: 800px;
+	background: #E6EDF3;
+	padding: 30px;
+}
+
+.resume-title{
+	color: #F9EE06;
+	padding-top: 140px; 
+	letter-spacing: 1px;
+}
+
+.resume-title-size{
+	font-size: 80px;
+	font-family: 'Lato', sans-serif;
+}
+
+.parallax-action{
+	background-image: url(../images/rap_session.jpg);
+	min-height: 400px;
+	background-attachment: fixed;
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.resume-circle{
+	width: 400px;
+	height: 335px;
+	display: inline-block;
+	line-height: 24px;
+	background-color: #1779BA; 
+	text-align: center;
+	position: relative;
+	padding: 5px;
+}
+
+.resume-info-label{
+	font-family: 'Lato', sans-serif;
+	color: #1779BA;
+	font-size: 24px;
+}
+
+.resume-info-ans{
+	font-family: 'Merriweather', serif;
+	color: #1779BA;
+	font-size: 24px;
+}
+
 
 
 /*
