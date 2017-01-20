@@ -37,7 +37,7 @@
 				<div class="card-divider system-title text-center" data-equalizer-watch>
 					<h4>Privato Hotel</h4>
 				</div>
-				<img src="privato-images/login.JPG">
+				<img src="privato-images/used/login.JPG">
 				<div class="card-section">
 					<a href="privato.php" class="button warning expanded large">
 						<i class="fa fa-eye"></i> View
