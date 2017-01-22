@@ -1,7 +1,7 @@
 
 <div class="footer">
 	<div class="row">
-		<div class="large-6 medium-6 small-6 small-centered large-centered columns large-push-1">
+		<div class="large-8 medium-6 small-6 small-centered large-centered columns text-center">
 			<p class="footer-copyright">Copyright &copy; Ralph Martyn Esteva, 2017</p>
 		</div>
 	</div>
