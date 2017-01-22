@@ -7,13 +7,13 @@ $path2 = '';
 <div class="parallax-background">
   <div class="row">
   	<div class="intro-text">
-  		<div class="small-4 small-push-2 columns">
+  		<div class="small-8 medium-6 large-4 small-push-1 large-push-2 columns">
   			<h1 class="greetings-text">Hello there!</h1>
   			<p class="greetings-msg">My name is Rap. First of all, thank you for stopping by my page.
   			I am a persuasive graduate of Computer Science in Jose Rizal University with a passion for coding and making music as well. </p>
 
   		</div>
-  		<div class="small-6 columns">
+  		<div class="small-3 medium-5 large-6 columns">
   			<div class="ih-item circle effect6 scale_up">
   				<a href="#">
   	  				<div class="img">
@@ -34,12 +34,12 @@ $path2 = '';
 
 <div class="social-media-content">
 	<div class="row">
-		<div class="large-3 large-centered columns">
+		<div class="small-6 large-7 large-centered medium-centered small-centered columns text-center">
 			<h3 class="contact-msg">Social Media Links</h3>
 		</div>
 	</div>
 	<div class="row">
-		<div class="small-10 large-8 columns small-centered large-centered">
+		<div class="small-10 large-8 medium-8 columns small-centered large-centered text-center">
 				<a href="https://www.facebook.com/ralph.m.esteva" class="social-media-icon social-fb" target="_blank">
 					<i class="fa fa-facebook"></i>
 				</a>
@@ -65,7 +65,13 @@ $path2 = '';
 	</div>	
 </div>
 
-<div class="info-section"></div>
+<div class="info-section">
+	<div class="row">
+		<div class="columns text-center">
+			<h2 class="greetings-quote">"With great power comes great responsibility"</h2>
+		</div>
+	</div>
+</div>
 		
 
 <?php include('foot.php'); ?>

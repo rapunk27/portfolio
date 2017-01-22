@@ -22,13 +22,24 @@
 	font-family: 'Lato', sans-serif;
 	color:#1779BA;
 	font-weight: 900;
+	font-size: 46px;
 }
 
 .greetings-msg{
-	font-size:16px;
+	font-size:20px;
 	font-family: 'Merriweather', serif;
 	color:#64A5D1;
 }
+
+.greetings-quote{
+	font-family: 'Lato', sans-serif;
+	color:#1779BA;
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 20px; 
+}
+
+
 .contact-icon-color{
 	color:#F9EE06;
 }
@@ -41,7 +52,7 @@
 
 .parallax-background {
 	background-color: #E6EDF3;
-	height: 300px;
+	height: 350px;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;

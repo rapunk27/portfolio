@@ -1,0 +1,58 @@
+/*===============*/
+/*Media Queries*/
+/*===============*/
+
+@media only screen and (max-width: 1100px){
+	.social-media-content{
+		height: 300px;
+	}
+
+}
+
+@media only screen and (max-width: 1000px){
+	.parallax-background{
+		height: 350px;
+	}
+	.parallax-background{
+		height: 300px;
+	}
+	.social-media-content{
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 790px){
+	.parallax-background{
+		height: 400px;
+	}
+	.greetings-quote{
+		margin-top: 5px; 
+	}
+	.social-gplus{
+		margin-left: 0;
+	}
+	.parallax-background{
+		height: 300px;
+	}
+	.social-media-content{
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 460px){
+	
+}
+
+@media only screen and (max-width: 690px){
+	.social-media-content{
+		width: 100%;
+	}
+	.parallax-background{
+		height: 340px;
+	}
+	.social-media-content{
+		width: 100%;
+	}
+}
+
+
