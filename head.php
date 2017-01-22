@@ -27,7 +27,7 @@
     		<li><a href="<?php echo $path; ?>index.php">Home</a></li>
     		<li><a href="<?php echo $path; ?>works.php">Works</a></li>
     		<li><a href="<?php echo $path; ?>resume.php">Resume</a></li>
-    		<li><a href="#">Contacts</a></li>
+    		<li><a href="<?php echo $path; ?>about.php">About</a></li>
     	</ul>
     </div>
 </div>

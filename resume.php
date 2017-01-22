@@ -93,7 +93,7 @@ $path2 = '';
 				</div>
 				<div class="resume-work-date">
 					<p class="resume-work-bold">
-						October 2016 - March 2016
+						October 2015 - March 2016
 					</p>
 				</div>
 			</div>

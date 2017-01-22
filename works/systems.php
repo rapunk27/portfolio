@@ -23,7 +23,7 @@
 				<div class="card-divider system-title text-center" data-equalizer-watch>
 					<h4>Development Academy of the Philippines</h4>
 				</div>
-				<img src="dap-images/login.JPG">
+				<img src="dap-images/login.jpg">
 				<div class="card-section">
 					<a href="dap.php" class="button warning expanded large" target="_blank">
 						<i class="fa fa-eye"></i> View

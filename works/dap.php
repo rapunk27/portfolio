@@ -5,8 +5,8 @@
 
 <?php include('../head.php'); ?>
 
-<div class="dap-section">
-	<div class="row" id="title">
+<div class="dap-section" id="main">
+	<div class="row section" id="title" >
 		<div class="small-12 large-12 columns text-center">
 			<h1 class="system-name">Development Academy of the Philippines</h1>
 		</div>
@@ -362,5 +362,4 @@
 
 <?php include('works-modals.php') ?>
 <?php include('../foot.php') ?>
-
 			

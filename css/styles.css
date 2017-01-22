@@ -530,6 +530,30 @@
 
 }
 
+/*About*/
+
+.about-section{
+	height: 500px;
+	background: #E6EDF3;
+	padding: 30px;
+}
+
+.about-title{
+	font-family: 'Lato', sans-serif;
+	color:#1779BA;
+	font-weight: 900;
+	font-size: 46px;
+}
+
+.about-paragraph{
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+	color: #000000;
+}
+
+.about-highlight{
+	color: #ffae00;
+}
 
 
 /*
