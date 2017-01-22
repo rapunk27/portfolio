@@ -23,7 +23,7 @@
     	</div>
     </div>
     <div class="top-bar-right ">
-    	<ul class="menu large-pull-3 medium-pull-1 small-push-2 right">
+    	<ul class="menu large-pull-3 medium-pull-1 right">
     		<li><a href="<?php echo $path; ?>index.php">Home</a></li>
     		<li><a href="<?php echo $path; ?>works.php">Works</a></li>
     		<li><a href="<?php echo $path; ?>resume.php">Resume</a></li>

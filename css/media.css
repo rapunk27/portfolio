@@ -11,10 +11,7 @@
 
 @media only screen and (max-width: 1000px){
 	.parallax-background{
-		height: 350px;
-	}
-	.parallax-background{
-		height: 300px;
+		height: 400px;
 	}
 	.social-media-content{
 		width: 100%;
@@ -37,15 +34,12 @@
 
 @media only screen and (max-width: 1200px){
 	.resume-work-section{
-		height: 700px;
+		height: 780px;
 	}
 
 }
 
 @media only screen and (max-width: 790px){
-	.parallax-background{
-		height: 400px;
-	}
 	.greetings-quote{
 		margin-top: 5px; 
 	}
@@ -53,15 +47,17 @@
 		margin-left: 0;
 	}
 	.parallax-background{
-		height: 300px;
+		height: 420px;
 	}
 	.social-media-content{
 		width: 100%;
 	}
 }
 
-@media only screen and (max-width: 460px){
-	
+@media only screen and (max-width: 550px){
+	.menu{
+		margin-left: 10%; 
+	}
 }
 
 @media only screen and (max-width: 690px){
@@ -69,7 +65,7 @@
 		width: 100%;
 	}
 	.parallax-background{
-		height: 340px;
+		height: 600px;
 	}
 	.social-media-content{
 		width: 100%;

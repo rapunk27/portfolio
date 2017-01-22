@@ -6,14 +6,15 @@ $path2 = '';
 
 <div class="parallax-background">
   <div class="row">
-  	<div class="intro-text">
-  		<div class="small-8 medium-6 large-4 small-push-1 large-push-2 columns">
+  	<div class="intro-text large-11 columns large-push-1">
+  		<div class="small-10 medium-6 large-5 small-push-1 large-push-1 columns">
   			<h1 class="greetings-text">Hello there!</h1>
-  			<p class="greetings-msg">My name is Rap. First of all, thank you for stopping by my page.
-  			I am a persuasive graduate of Computer Science in Jose Rizal University with a passion for coding and making music as well. </p>
+  			<p class="greetings-msg">My name is Rap. First of all, thank you for stopping by my page. Feel free to look around my accomplishments.
+  			Just a brief intro, I am a persuasive graduate of Computer Science in Jose Rizal University with a passion for coding and making music as well. </p>
+
 
   		</div>
-  		<div class="small-3 medium-5 large-6 columns">
+  		<div class="small-9 medium-5 large-3 large-pull-3 columns" >
   			<div class="ih-item circle effect6 scale_up">
   				<a href="#">
   	  				<div class="img">
