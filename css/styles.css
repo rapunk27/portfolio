@@ -431,7 +431,7 @@
 
 /*Resume*/
 .resume-section{
-	height: 800px;
+	height: 400px;
 	background: #E6EDF3;
 	padding: 30px;
 }
@@ -457,7 +457,7 @@
 
 }
 
-.resume-circle{
+.resume-square{
 	width: 400px;
 	height: 335px;
 	display: inline-block;
@@ -471,13 +471,51 @@
 .resume-info-label{
 	font-family: 'Lato', sans-serif;
 	color: #1779BA;
-	font-size: 24px;
+	font-size: 28px;
 }
 
 .resume-info-ans{
 	font-family: 'Merriweather', serif;
 	color: #1779BA;
+	font-size: 18px;
+}
+
+.parallax-work{
+	background-image: url(../images/work.jpg);
+	min-height: 400px;
+	background-attachment: fixed;
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.resume-work-section{
+	height: 600px;
+	background: #E6EDF3;
+	padding: 30px;
+}
+
+.resume-work-bold{
+	font-family: 'Lato', sans-serif;
+	color: #1779BA;
 	font-size: 24px;
+	font-weight: bold;
+}
+
+.resume-work-para{
+	font-family: 'Merriweather', serif;
+	color: #1779BA;
+	font-size: 18px;
+}
+
+.resume-work-company{
+	float: left;
+}
+
+.resume-work-date{
+	float: right;
+
 }
 
 
