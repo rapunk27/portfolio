@@ -21,7 +21,7 @@
 </div>
 
 
-	<div class="row small-up-2 large-up-4" style="margin-top: 20px;">
+	<div class="row small-up-2 medium-up-3 large-up-4" style="margin-top: 20px;">
 <!-- Looping all the image files here -->
 	<?php foreach(glob('./banner-images/*.*') as $index => $file): ?>
 		<?php $exif = exif_read_data($file); ?>

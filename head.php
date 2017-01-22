@@ -17,7 +17,7 @@
 <body>
 <div class="top-bar custom-top-nav">
     <div class="top-bar-left">
-    	<div class="top-bar-title medium-push-1 large-push-4 small-push-3">
+    	<div class="top-bar-title medium-push-1 large-push-4 small-push-4">
     		<h3 class="name-title">Ralph Martyn Esteva</h3>
     		<h6 class="position-text">Web Designer/Developer</h6>
     	</div>

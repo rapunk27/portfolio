@@ -19,11 +19,11 @@
 	</div>
 </div>
 
-<div class="row small-up-2 large-up-4" style="margin-top: 20px;">
+<div class="row small-up-2 medium-up-2 large-up-4" style="margin-top: 20px; border: 1px solid black;">
 <!-- Looping all the image files here -->
 	<?php foreach(glob('./edm-images/*.*') as $index => $file): ?>
 		<?php $exif = exif_read_data($file); ?>
-		<div class="large-4 columns">
+		<div class="large-4 medium-3 small-1 columns">
 			<div class="card edm-image">
 				<div class="card-divider">
 					<h6 class="edm-title"><?php echo substr($file, 16, -4); ?></h6>	

@@ -18,7 +18,7 @@
 		</div>
 	</div>
 	<div class="row" data-equalizer data-equalize-by-row="true">
-		<div class="large-4 small-6 columns system-card-size">
+		<div class="large-4 medium-12 small-6 columns system-card-size">
 			<div class="card">
 				<div class="card-divider system-title text-center" data-equalizer-watch>
 					<h4>Development Academy of the Philippines</h4>
@@ -32,7 +32,7 @@
 			</div>
 		</div>
 
-		<div class="large-4 small-6 columns system-card-size">
+		<div class="large-4 medium-12 small-6 columns system-card-size">
 			<div class="card">
 				<div class="card-divider system-title text-center" data-equalizer-watch>
 					<h4>Privato Hotel</h4>
