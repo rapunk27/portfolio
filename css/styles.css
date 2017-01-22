@@ -441,8 +441,9 @@
 }
 
 /*Resume*/
+
 .resume-section{
-	height: 400px;
+	height: 430px;
 	background: #E6EDF3;
 	padding: 30px;
 }
@@ -470,7 +471,7 @@
 
 .resume-square{
 	width: 400px;
-	height: 335px;
+	height: auto;
 	display: inline-block;
 	line-height: 24px;
 	background-color: #1779BA; 
@@ -516,7 +517,7 @@
 
 .resume-work-para{
 	font-family: 'Merriweather', serif;
-	color: #1779BA;
+	color: #000000;
 	font-size: 18px;
 }
 

@@ -13,10 +13,10 @@ $path2 = '';
 <div class="resume-section">
 
 	<div class="row">
-		<div class="small-4 columns">
+		<div class="large-4 medium-12 small-12 columns">
 			<img class="resume-square" src="images/rap_selfie.jpg">
 		</div>
-		<div class="small-8 columns">
+		<div class="large-8 medium-12 small-12 columns">
 			<div class="row text-center">
 				<b class="resume-info-label">Web Technologies learned: </b> 
 			</div>
@@ -65,7 +65,7 @@ $path2 = '';
 <div class="resume-work-section">
 <!-- Asiatravel -->
 	<div class="row">
-		<div class="small-8 small-offset-2 columns">
+		<div class="large-8 large-offset-2 columns">
 			<div class="callout warning" style="overflow: hidden;">
 				<div class="resume-work-company">
 					<h4 class="resume-work-bold">
@@ -83,7 +83,7 @@ $path2 = '';
 	</div>
 <!-- PEP -->
 	<div class="row">
-		<div class="small-8 small-offset-2 columns">
+		<div class="large-8 large-offset-2 columns">
 			<div class="callout warning" style="overflow: hidden;">
 				<div class="resume-work-company">
 					<h4 class="resume-work-bold">
@@ -101,7 +101,7 @@ $path2 = '';
 	</div>
 <!-- Anglo Eastern -->
 	<div class="row">
-		<div class="small-8 small-offset-2 columns">
+		<div class="large-8 large-offset-2 columns">
 			<div class="callout warning" style="overflow: hidden;">
 				<div class="resume-work-company">
 					<h4 class="resume-work-bold">
@@ -119,7 +119,7 @@ $path2 = '';
 	</div>
 <!-- OSM -->
 	<div class="row">
-		<div class="small-8 small-offset-2 columns">
+		<div class="large-8 large-offset-2 columns">
 			<div class="callout warning" style="overflow: hidden;">
 				<div class="resume-work-company">
 					<h4 class="resume-work-bold">
