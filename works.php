@@ -14,10 +14,11 @@ $path2 = '';
 		<p class="circle-text circle-edms-color">EDMs</p>
 	</a>
 
-	<a href="works/banners.php" class="circle-default">
+	<a href="works/banners.php" class="circle-default third-circle">
 		<div class="circle-work circle-banners"></div>
 		<p class="circle-text circle-banners-color">Banners</p>
 	</a>
+	
 	<a href="works/html-email.php" class="circle-default">
 		<div class="circle-work circle-html-email"></div>
 		<p class="circle-text circle-html-email-color">HTML Email</p>
