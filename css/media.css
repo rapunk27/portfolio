@@ -371,8 +371,56 @@
 	}
 }
 
+@media only screen and (max-width: 470px) {
 
+  	.parallax-background{
+  		height: 800px;
+  	}
 
-@media only screen and (min-width: 1300px){
+  	.social-media-content{
+  		min-height: 500px; 
+  	}
 
+  	.info-section{
+  		min-height: 300px;
+  	}
+
+  	.menu li a{
+  		font-size: 16px;
+  	}
+
+  	.resume-title{
+  		padding-top: 30px;
+  	}
+
+  	.parallax-action{
+  		min-height: 100px;
+  	}
+
+  	.resume-section{
+  		height: 950px;
+  	}
+
+  	.parallax-work{
+  		min-height: 200px;
+  	}
+  	.resume-title-size{
+  		line-height: 75px;
+  		font-size: 60px;
+  	}
+
+  	.resume-work-section{
+  		height: 1200px;
+  	}
+
+  	.works-content{
+  		min-height: 1000px;
+  	}
+
+  	.about-section{
+  		height: 700px;
+  	}
+  	.about-paragraph{
+  		font-size: 18px;
+  	}
 }

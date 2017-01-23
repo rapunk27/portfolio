@@ -10,11 +10,11 @@ $path2 = '';
   		<div class="small-10 medium-6 large-5 small-push-1 large-push-1 columns">
   			<h1 class="greetings-text">Hello there!</h1>
   			<p class="greetings-msg">My name is Rap. First of all, thank you for stopping by my page. Feel free to look around my accomplishments.
-  			Just a brief intro, I am a persuasive graduate of Computer Science in Jose Rizal University with a passion for coding and making music as well. </p>
+  			Just a brief intro, I am a persuasive graduate of Computer Science in Jose Rizal University with a passion for coding. </p>
 
 
   		</div>
-  		<div class="small-9 medium-5 large-3 large-pull-3 columns" >
+  		<div class="small-10 medium-5 large-3 large-pull-3 columns" >
   			<div class="ih-item circle effect6 scale_up">
   				<a href="#">
   	  				<div class="img">

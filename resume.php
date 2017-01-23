@@ -21,7 +21,7 @@ $path2 = '';
 				<b class="resume-info-label">Web Technologies learned: </b> 
 			</div>
 			<div class="row">
-				<div class="small-5 small-offset-1 columns resume-info-ans">
+				<div class="large-5 large-offset-1 columns resume-info-ans">
 					<ul>
 						<li>PHP</li>
 						<li>Laravel (Php framework)</li>
@@ -33,7 +33,7 @@ $path2 = '';
 						<li>XAMPP (Server Package)</li>
 					</ul>
 				</div>
-				<div class="small-5 small-offset-1 columns resume-info-ans">
+				<div class="large-5 large-offset-1 columns resume-info-ans">
 					<ul>
 						<li>CSS</li>
 						<li>Bootstrap / Foundation (CSS Frameworks)</li>

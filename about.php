@@ -13,11 +13,11 @@ $path2 = '';
 
 	<div class="row">
 		<div class="large-6 columns large-centered">
-			<p class="about-paragraph text-justify">
+			<p class="about-paragraph">
 				This website is built with Foundation version 6 (CSS framework) and a bit of PHP. 
 				Manual CSS is also applied in this project to be able to customize my own design. 
 			</p>
-			<p class="about-paragraph text-justify">
+			<p class="about-paragraph">
 				For questions about my works and site, you may contact me through my mobile number <b class="about-highlight">09260690935</b> or you can send me an email through
 				<b class="about-highlight">rapunk27@gmail.com</b> or yahoo account: <b class="about-highlight">rapesteva_95@yahoo.com.ph</b> 
 			</p>
