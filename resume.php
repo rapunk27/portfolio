@@ -45,7 +45,7 @@ $path2 = '';
 			</div>
 			<div class="row">
 				<div class="small-12 columns text-center">
-					<a href="https://docs.google.com/document/d/1T9xusbBds1czVpNup_1GHnqh9exn_w_JP1uS-gVVXfM/edit?usp=sharing" class="large button warning" target="_blank"> 
+					<a href="https://drive.google.com/open?id=0BwxA1k4so9seSDVRYlZqa1pWZlE" class="large button warning" target="_blank"> 
 						<i class="fa fa-file-word-o"></i>
 						View Resume Document Here
 					</a>
