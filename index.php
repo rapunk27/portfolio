@@ -18,7 +18,7 @@ $path2 = '';
   			<div class="ih-item circle effect6 scale_up">
   				<a href="#">
   	  				<div class="img">
-  	  					<img src="images/rapunk.jpg" class="circle-profile">
+  	  					<img src="images/rap_selfie.jpg" class="circle-profile">
   	  				</div>
   		  			<div class="info">
   		  			  	<h3>Contact me:</h3>

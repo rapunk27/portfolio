@@ -14,14 +14,14 @@ $path2 = '';
 
 	<div class="row">
 		<div class="large-4 medium-12 small-12 columns">
-			<img class="resume-square" src="images/rap_selfie.jpg">
+			<img class="resume-square" src="images/rap_stand.jpg">
 		</div>
 		<div class="large-8 medium-12 small-12 columns">
 			<div class="row text-center">
 				<b class="resume-info-label">Web Technologies learned: </b> 
 			</div>
 			<div class="row">
-				<div class="large-5 large-offset-1 columns resume-info-ans">
+				<div class="large-5 large-offset-1 medium-5 medium-offset-1 columns resume-info-ans">
 					<ul>
 						<li>PHP</li>
 						<li>Laravel (Php framework)</li>
@@ -33,7 +33,7 @@ $path2 = '';
 						<li>XAMPP (Server Package)</li>
 					</ul>
 				</div>
-				<div class="large-5 large-offset-1 columns resume-info-ans">
+				<div class="large-5 large-offset-1 medium-5 medium-offset-1 columns resume-info-ans">
 					<ul>
 						<li>CSS</li>
 						<li>Bootstrap / Foundation (CSS Frameworks)</li>
